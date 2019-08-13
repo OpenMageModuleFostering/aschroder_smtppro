@@ -8,9 +8,9 @@ by Ashley Schroder (aschroder.com)
 - Improve deliverability with an external SMTP server
 
 Contributors
-nl_NL translations thanks to [Melvyn Sopacua](http://www.supportdesk.nu/)
-es_ES translations thanks to [Jhoon Saravia](http://twitter.com/jsaravia)
-pt_BR translations thanks to [Gabriel Zamprogna] (https://github.com/gabrielz)
+- nl_NL translations thanks to [Melvyn Sopacua](http://www.supportdesk.nu/)
+- es_ES translations thanks to [Jhoon Saravia](http://twitter.com/jsaravia)
+- pt_BR translations thanks to [Gabriel Zamprogna] (https://github.com/gabrielz)
 
 
 FAQ
