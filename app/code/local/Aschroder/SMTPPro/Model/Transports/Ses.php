@@ -29,10 +29,6 @@ class Aschroder_SMTPPro_Model_Transports_Ses {
             )
         );
 
-        $_helper->log("access is: " . print_r($_helper->getAmazonSESAccessKey($storeId), true));
-        $_helper->log("pk is: " . print_r($_helper->getAmazonSESPrivateKey($storeId), true));
-        $_helper->log("Transport is: " . print_r($emailTransport, true));
-
         return $emailTransport;
     }
 }
