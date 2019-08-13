@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ASchroder_SMTPPro",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Robust, Free and Open Source SMTP, Gmail, SendGrid and Google Apps Email support for Magento",
+    "authors": [
+    {
+        "name": "ASchroder",
+        "email": "ashley.schroder@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
