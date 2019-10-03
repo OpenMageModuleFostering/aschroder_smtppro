@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/ASchroder_SMTPPro",
+    "name": "openmage-module-fostering\/aschroder_smtppro",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Robust, Free and Open Source SMTP, Gmail, SendGrid and Google Apps Email support for Magento",
     "authors": [
